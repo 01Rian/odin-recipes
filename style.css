@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(201, 189, 189);
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: rgba(232, 225, 25, 0.934);
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+
+ul > h3 > .center {
+    text-align: center;
+    margin-right: 40px;
+    list-style: none;
+}
